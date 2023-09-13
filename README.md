@@ -1,8 +1,12 @@
 # JS-Calculator
 
-Calculator created with JavaScript.
-
-Calculadora creada con JavaScript.
+Calculator created with JavaScript. 
+<br>
+<br>
+The app permits the user to add, subtract, multiply and divide a chain of numbers of any length, showing the correct result when you hit '='. It allows any operation (+, -, *, /) on numbers containing decimal points, having several decimal places of precision when it comes to rounding.
+<br>
+<br>
+If 2 or more operators are entered consecutively, the operation performed will be the last operator entered. Pressing an operator immediately following '=' will start a new calculation that operates on the result of the previous evaluation.
 
 <br>
 
