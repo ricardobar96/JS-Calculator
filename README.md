@@ -16,7 +16,7 @@ If 2 or more operators are entered consecutively, the operation performed will b
 <br>
 
 ## Screenshots
-![calculator](https://github.com/ricardobar96/JS-Calculator/assets/73242474/10efdc5e-770b-4ffa-adf4-c2b3b8d04c37)
+![calculator](images/calculator.png)
 
 <br>
 
